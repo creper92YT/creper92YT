@@ -1,3 +1,5 @@
+	<link href="http://creper92.hostarc.xyz/css/style.css" rel="stylesheet">
+
 <a class="aboutme_desc">Hola, soy Creper92YT, soy desarollador de paginas web y bots de Discord. Me dedico al area de front-end en lo que a desarollo web respecta. <br>Me encanta todo lo que tenga que ver con la programación y la informática, actualmente me estoy aventurando en el area del back-end para poder ser un desarollador web full stack.</a> <br>
 
 <div class="spacer" style="margin-bottom: 100px; margin-top: 300px"></div> 
