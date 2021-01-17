@@ -9,15 +9,15 @@
 
   <div class="subgrid">
         <h3 class="conocimientos_desc">JavaScript</h3>
-<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/js.png" alt="JavaScript">
+<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/js.png">
 </div>
   <div class="subgrid">
         <h3 class="conocimientos_desc">Html5</h3>
-<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/html5.png" alt="Html5">
+<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/html5.png">
 </div>
 
   <div class="subgrid">
         <h3 class="conocimientos_desc">Css3</h3>
-<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/css3.png" alt="Css3">
+<img class="conocimientos_img" src="http://creper92.hostarc.xyz/img/css3.png">
 </div>
 </div>
