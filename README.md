@@ -1,7 +1,7 @@
 <h2>Hi, I'm Creper92.</h2>
 <h4>I'm a developer student that loves to learn new things and develop.</h4>
 
-### My tech stack
+<h2>My tech stack</h2>
 <p> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -12,4 +12,4 @@
 </p>
 
 <h2>My portfolio</h2>
-* <a href="https://creper92.tk">Click here</a>
+<a href="https://creper92.tk">    • Click here</a>
