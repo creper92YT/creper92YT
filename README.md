@@ -1,4 +1,4 @@
-###Hi, I'm Creper92.
+#Hi, I'm Creper92.
 ##I'm a developer student that loves to learn new things and 
 
 ### My tech stack
@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Discord.js-5865f2?style=flat-square&logo=DISCORD&logoColor=white"/>&nbsp
 </p>
 
-###My portfolio
+#My portfolio
 * <a href="https://creper92.tk">Click here</a>
