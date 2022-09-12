@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Discord.js-5865f2?style=flat-square&logo=DISCORD&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Java&logoColor=white"/>&nbsp
 </p>
 
 <h2>My portfolio</h2>
