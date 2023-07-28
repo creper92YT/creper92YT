@@ -1,5 +1,5 @@
 <h2>Hi, I'm Creper92.</h2>
-<h4>I'm an argentinian developer who loves to learn new things and work on innovative proyects and ideas./h4>
+<h4>I'm an argentinian developer who loves to learn new things and work on innovative proyects and ideas.</h4>
 
 <h2>My stack:</h2>
 <p> 
